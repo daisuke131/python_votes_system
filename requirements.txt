@@ -1,0 +1,5 @@
+selenium==3.141.0
+selenium-stealth==1.0.6
+webdriver-manager==3.5.2
+chromedriver==2.24.1
+chromedriver-binary==89.0.4389.23.0
